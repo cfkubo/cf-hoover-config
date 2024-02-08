@@ -1,6 +1,6 @@
 cf:
   butlers:
-    npike-foundation: cf-butler.apps.sangabriel.cf-app.com
+    npike-foundation: cf-butler.apps.h2o-4-15402.h2o.vmware.com
     #ironleg: cf-butler.apps.demo.ironleg.me
   sslValidationSkipped: true
 
