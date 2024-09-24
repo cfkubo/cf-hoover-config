@@ -1,7 +1,6 @@
 cf:
   butlers:
-    h20-foundation: cf-butler.apps.h2o-4-15402.h2o.vmware.com
-    arul-demo: cf-butler.apps.keep-716898.cf-app.com
+    arul-demo: cf-butler.apps.vase-2803780.cf-app.com
   sslValidationSkipped: true
 
 management:
